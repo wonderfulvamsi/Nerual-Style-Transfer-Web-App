@@ -3,3 +3,4 @@ numpy==1.18.5
 pandas==1.0.5
 torch==1.5.1+cu101
 torchvision==0.6.1+cu101
+streamlit==0.62.1
